@@ -1,6 +1,6 @@
 # Getting Started with Doctrine
 
-This is only a basic startup project structure to create to aim people start to paly with Doctrine. Doctrine entities and codes are from (Getting Started with Doctrine)[http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html]
+This is only a basic startup project structure to aim people to start to play with Doctrine. Doctrine entities and codes are from (Getting Started with Doctrine)[http://docs.doctrine-project.org/projects/doctrine-orm/en/latest/tutorials/getting-started.html]
 I've create a sample structure and add some codes. This project contains some advantages and features of PHP 7.
 
 
